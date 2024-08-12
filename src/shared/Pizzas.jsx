@@ -3,7 +3,7 @@ import calabresa from "../assets/images/calabresa.png"
 import atum from "../assets/images/atum.png"
 import portuguesa from "../assets/images/portuguesa.png"
 import frango from "../assets/images/frango.png"
-
+//a
 const Pizzas = [
     {
       "id": 1,
